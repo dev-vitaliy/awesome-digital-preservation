@@ -181,6 +181,10 @@ Tools and services for capturing, replaying, and analyzing web content.
   - **Type:** Service
   - **Open Source:** No
   - **Platform:** Cloud
+* **[SnapshotArchive](https://snapshotarchive.com/)** - Scheduled website screenshot archiving with visual change detection and alerts.
+  - **Type:** Service
+  - **Open Source:** No
+  - **Platform:** Cloud
 * **[Wayback-Archive](https://github.com/GeiserX/Wayback-Archive)** - CLI tool to bulk-download full website snapshots from the Wayback Machine, preserving original directory structure with all assets.
   - **Type:** CLI
   - **Open Source:** Yes
